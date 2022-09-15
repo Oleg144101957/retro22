@@ -7,7 +7,6 @@ import retrofit2.converter.scalars.ScalarsConverterFactory
 
 class RetrofitInstance {
 
-
     companion object{
         private const val BASE_URL = "http://numbersapi.com"
 
